@@ -13,7 +13,7 @@ Notes
 	- run it again 
 
 9.14.23
-- Input file contains the log2 fold change of each gene (thanks Shunji for the information)
+- Input file contains the log2 fold change of each gene
 
 Example: YFG = your favorite gene
 
