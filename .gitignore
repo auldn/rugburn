@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+renv.lock
+index
+Untitled-1.ipynb
+sample_data
+.renv
+rugburn.Rproj
